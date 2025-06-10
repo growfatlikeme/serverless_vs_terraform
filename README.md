@@ -30,7 +30,7 @@
 
 #### Learning Curve
 
--Low (for serverless developers)
+- Low (for serverless developers)
 
 #### Ease of Use
 
